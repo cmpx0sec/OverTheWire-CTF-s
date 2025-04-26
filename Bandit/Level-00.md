@@ -31,10 +31,11 @@ You should see a file called **readme**. This is the file you need to open to ge
 Read the readme file:
 Now, use the cat command to display the contents of the file and find the password.
 
-   Command:
+Command:
    ```bash
-   cat
+   ls
 
+   
 Once the file is opened you should see the password
 
 ##🔑 Password for Level 1:
