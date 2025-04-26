@@ -23,31 +23,26 @@ To find the file containing the password for the next level, use the ls command 
 
    Command:
    ```bash
-   cat
+   ls
 ```
-
 You should see a file called **readme**. This is the file you need to open to get the password for Level 1.
-
-Read the readme file:
-Now, use the cat command to display the contents of the file and find the password.
+Open the **readme** file using the cat command to display the contents of the file and find the password.
 
 Command:
    ```bash
-   ls
+   cat readme
 ```
 Once the file is opened you should see the password
 
-##🔑 Password for Level 1:
-boJ9jbbUNNfktd78OOpsqOlt2aP7a3v7
+## 🔑 Password for Level 1:
+ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
-##🛠️ Tools and Commands Learned
-SSH: Used to log in to remote servers.
+## 🛠️ Tools and Commands Learned
+- SSH: Used to log in to remote servers.
+- ls: List the contents of the current directory.
+- cat: Display the contents of a file.
 
-ls: List the contents of the current directory.
-
-cat: Display the contents of a file.
-
-##📝 Notes
+## 📝 Notes
 - The welcome message is important! It often contains the clue for finding the password.
 - The password is stored in the readme file in the home directory.
 - Be sure to use cat to view file contents in this type of challenge.
