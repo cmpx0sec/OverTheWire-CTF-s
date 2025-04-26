@@ -22,18 +22,18 @@ You’ll be prompted for the password, which will be **bandit0** as stated in th
 
 To find the file containing the password for the next level, use the ls command to list the files in the current directory.
 
-Command:
-```bash
-ls
+   Command:
+   ```bash
+   ls
 
 You should see a file called **readme**. This is the file you need to open to get the password for Level 1.
 
 Read the readme file:
 Now, use the cat command to display the contents of the file and find the password.
 
-Command:
-```bash
-cat
+   Command:
+   ```bash
+   cat
 
 Once the file is opened you should see the password
 
