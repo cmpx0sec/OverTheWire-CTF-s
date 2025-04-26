@@ -12,7 +12,7 @@ The goal for **Level 0** is to log in to the Bandit server using SSH with the us
 
    Command:
    ```bash
-   ssh bandit0@bandit.labs.overthewire.org -p 2220```
+   ssh bandit0@bandit.labs.overthewire.org -p 2220
    
 You’ll be prompted for the password, which will be **bandit0** as stated in the instructions on https://overthewire.org/wargames/bandit/bandit0.html .
 
@@ -24,8 +24,9 @@ To find the file containing the password for the next level, use the ls command 
 
    Command:
    ```bash
-   cat```
+   cat
 
+---
 You should see a file called **readme**. This is the file you need to open to get the password for Level 1.
 
 Read the readme file:
@@ -35,7 +36,7 @@ Command:
    ```bash
    ls
 
-   
+---
 Once the file is opened you should see the password
 
 ##🔑 Password for Level 1:
