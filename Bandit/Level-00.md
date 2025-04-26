@@ -23,7 +23,6 @@ You’ll be prompted for the password, which will be **bandit0** as stated in th
 To find the file containing the password for the next level, use the ls command to list the files in the current directory.
 
 Command:
-
 ```bash
 ls
 
