@@ -1,6 +1,6 @@
 # Level 02: Bandit - OverTheWire
 
-**Objective:**  
+**🎯Objective:**    
 The goal for **Level 2** is to open files that have spaces
 
 ---
@@ -8,14 +8,14 @@ The goal for **Level 2** is to open files that have spaces
 ## 📝 Steps Taken
 The file in the home directory has spaces in its name which means it must be handled diffrentley when using the **cat** command.
 
-## Solution:
+## 💡Solution:
 When a filename contains spaces, wrap the filename in quotation marks ("")
 
   Command:
    ```bash
    cat "spaces in the filename"
 ```
-Password is inside this file.
+The password is inside this file.
 
 ## 🔑 Password for Level 3:
 MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
