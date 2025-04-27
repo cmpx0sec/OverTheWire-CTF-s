@@ -46,5 +46,3 @@ the filename is now presented to the user and using the command from [Level 1](C
 - **-l** lists all the detailed information
 - **-a** lists all hidden files
 
-## 📝 Notes
-
