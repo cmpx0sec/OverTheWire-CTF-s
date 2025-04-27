@@ -4,7 +4,7 @@ This repository documents my journey through CTFs (Capture the Flag challenges) 
 
 ## 📚 About Me
 - 🎯 Mission: Become an expert in offensive cybersecurity and CPS (Cyber-Physical Systems).
-- 🎓 Background: Studying Cybersecurity and Digital Forensics at Kingston University London.
+- 🎓 Background: Studying BSc Cybersecurity and Digital Forensics
 - 🛡️ Interest Areas: Ethical hacking, reverse engineering, CPS security, critical infrastructure defense.
 
 ---
