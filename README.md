@@ -1,4 +1,4 @@
-Hi! I'm Catarina (aka CMPX0SEC) — a cybersecurity student and future cyber-physical systems hacker.
+I'm a cybersecurity student and future cyber-physical systems hacker.
 
 This repository documents my journey through CTFs (Capture the Flag challenges) as I build the skills necessary to work on real-world cyber-physical system security and advanced hacking.
 
