@@ -39,7 +39,7 @@ the filename is now presented to the user and using the command from [Level 1](C
 ![image](https://github.com/user-attachments/assets/6cd9feb5-10a2-41b0-b3ac-4902efa1b15b)
 
 
-## 🔑 Password for Level 3:
+## 🔑 Password for Level 4:
 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 
 ## 🛠️ Tools and Commands Learned
