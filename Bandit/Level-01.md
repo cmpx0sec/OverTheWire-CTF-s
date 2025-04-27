@@ -17,8 +17,9 @@ The first thing we do is list all the files in the current directory the same wa
    ls
 ```
 3. **Special Characters**:
-Normally we would just write the **cat** command along with the name of the file but this time the file name is simply a dash symbol **-**.
-Normally opening the file with the **cat** command alone will result in the terminal not responding when dealing with a file starting with a special character instead you must use the following command;
+Normally, we would use the cat command followed by the file name. However, this time the file name is a single dash symbol (-).
+Running cat - would not open the file correctly — it would cause the terminal to hang because - is interpreted as an option, not a file name.
+Instead, we must specify the file path explicitly using ./, which tells the terminal to look for a file named - in the current directory.
 
 Command:
    ```bash
@@ -27,13 +28,14 @@ Command:
 the **./** command 
 
 
-##🔑 Password for Level 2:
+## 🔑 Password for Level 2:
 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 
-##🛠️ Tools and Commands Learned
-./: 
+## 🛠️ Tools and Commands Learned
+./: Refers to the current directory. This command is useful when accessing files with special/confusing names.
 
-##📝 Notes
+## 📝 Notes
+Files that start with special characters (like -) should be accessed using ./ to avoid misinterpretation by the command line.
 
 ---
 
