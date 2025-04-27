@@ -1,6 +1,6 @@
 # Level 03: Bandit - OverTheWire
 
-## **🎯Objective:**  
+**🎯Objective:**  
 Find file that is hidden somewhere in the directory 
 
 ---
