@@ -17,7 +17,7 @@
 ```
 The password is inside this file.
 
-## 🔑 Password for Level 4:
+## 🔑 Password for Level 5:
 
 ## 🛠️ Tools and Commands Learned
 
