@@ -9,6 +9,7 @@ To discover which file is human readable
 ## 📝 Steps Taken
 
 Go into the **inhere** directory and look inside the directory, Thier are 10 different files 
+
 ![image](https://github.com/user-attachments/assets/1e3dbf4b-814c-440b-a0d0-e38a69ee3908)
 
 
