@@ -34,7 +34,7 @@ you could also just write;
 This command will give the hidden file without the extra information and it will look like this;
 ![image](https://github.com/user-attachments/assets/56577c91-53e7-46a8-95bb-6e22e84cf4d7)
 
-the filename is now presented to the user and using the command from [Level 1](CMP-CTF/bandit/Level-01.md) you will open the file and get the password. the command will be as follows;
+the filename is now presented to the user and using the command from Level-01 you will open the file and get the password. the command will be as follows;
 
 ![image](https://github.com/user-attachments/assets/6cd9feb5-10a2-41b0-b3ac-4902efa1b15b)
 
