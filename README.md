@@ -1,24 +1,30 @@
-I'm a cybersecurity student and future cyber-physical systems hacker.
 
-This repository documents my journey through CTFs (Capture the Flag challenges) as I build the skills necessary to work on real-world cyber-physical system security and advanced hacking.
+# OverTheWire Wargame Write-ups
 
-## 📚 About Me
-- 🎯 Mission: Become an expert in offensive cybersecurity and CPS (Cyber-Physical Systems).
-- 🎓 Background: Studying BSc Cybersecurity and Digital Forensics
-- 🛡️ Interest Areas: Ethical hacking, reverse engineering, CPS security, critical infrastructure defense.
+🧠 A collection of write-ups and notes for the OverTheWire wargames. These challenges help build foundational knowledge in Linux, cybersecurity, networking, and exploitation through hands-on practice.
+
+## 🎯 What is OverTheWire?
+
+[OverTheWire](https://overthewire.org/wargames/) offers a set of free, progressively difficult wargames that teach different aspects of cybersecurity and system-level problem-solving.
+
+This repository documents my journey through each game, starting with **Bandit**, the beginner-friendly wargame focused on Linux command-line basics.
+
+## 📁 Repository Structure
+
+Each wargame has its own folder;
+
+Each level includes:
+- ✅ Objective
+- 🛠️ Commands used
+- 🔍 Explanation of steps
+- 🔑 Password (if applicable)
+
+## 📜 License
+
+Licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🏴‍☠️ What's in this Repo
-- CTF progress and solutions (OverTheWire, PicoCTF, and more)
-- Write-ups explaining my thinking and methods
-- Notes on Linux commands, networking, hacking basics
+## ✍️ Note
 
----
-
-## 📍 Current Status
-- 🚧 Working through Bandit (OverTheWire)
-- 🛠️ Building GitHub and documentation skills
-- 🧠 Studying cybersecurity foundations daily
-
----
+These write-ups are for personal learning and reference. If you're doing these challenges too, try to solve them on your own before looking at the solutions—figuring it out yourself is where the real learning happens!
