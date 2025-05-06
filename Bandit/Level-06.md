@@ -33,7 +33,7 @@ morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
 ## 🛠️ Tools and Commands Learned
 1. **/** - this symbol helps search the entire file system
 2. **-type f** - this portion of the command helps only search files in the server (excludes directories)
-4. **2>/dev/null** - helps hide error messages
+3. **2>/dev/null** - helps hide error messages
 
 ## 📝 Notes
 1. file ownership is important - ownership is important for privilege escalation and forensics
