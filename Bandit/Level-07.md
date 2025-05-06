@@ -6,8 +6,8 @@ The goal of this level is to find the word **millionth** next to this word, whic
 ---
 
 ## 📝 Steps Taken
-1. For this level, look at what files there are, there should only be one with the name **data.txt**
-2. If you open this file there will be a lot of text written out
+1. For this level, look at what files there are; there should only be one with the name **data.txt**
+2. If you open this file, there will be a lot of text written out
 3. For this level, the word **millionth** has to be found to find the password for the next level intrinsically. To do this, the grep command should be used
    
 ## 💡Solution:
