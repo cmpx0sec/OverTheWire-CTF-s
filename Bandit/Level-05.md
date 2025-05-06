@@ -19,7 +19,7 @@ The following command was used to locate the password:
 ```
 The output of this command will give both the directory and the file of where the password is hidden (./maybehere07/.file2), navigate to that directory and then the navigate to the file, the password will be inside.
 
-## 🔑 Password for Level 00:
+## 🔑 Password for Level 06:
 HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 
 ## 🛠️ Tools and Commands Learned
