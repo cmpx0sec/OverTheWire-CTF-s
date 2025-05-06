@@ -32,7 +32,7 @@ Command:
    ```bash
    cat readme
 ```
-Once the file is opened you should see the password
+Once the file is opened, you should see the password
 
 ## 🔑 Password for Level 1:
 ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
