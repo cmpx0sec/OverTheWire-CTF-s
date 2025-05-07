@@ -9,11 +9,13 @@ to find the human-readable strings preceded by several equal characters
 1. In the overthewire page for this level, **strings** are mentioned 
 2. The following command was the command initially used to look at any human-readable data;
 
-
-   Command:
+ Command:
    ```bash
    strings data.txt
 ```
+
+  
+
 
 3. This command gives all strings within the file, where there are equal characters next to human-readable words such as "the", "password", "is", and equal characters next to a line that looks like the password
 
