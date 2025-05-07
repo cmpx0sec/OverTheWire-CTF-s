@@ -27,6 +27,8 @@ Bandit is a beginner-friendly CTF designed to teach Linux basics, command-line n
 | Level 10 → 11 | ... | 
 | Level 11 → 12 | ... | 
 | Level 12 → 13 | ... | 
+| Level 13 → 14 | ... |
+| Level 14 → 15 | ... |
 
 ---
 
