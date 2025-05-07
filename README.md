@@ -27,4 +27,4 @@ Licensed under the [MIT License](LICENSE).
 
 ## ✍️ Note
 
-These write-ups are for personal learning and reference. If you're doing these challenges too, try to solve them on your own before looking at the solutions—figuring it out yourself is where the real learning happens!
+These write-ups are for personal learning and reference.
