@@ -1,4 +1,4 @@
-# Level 09: Bandit - OverTheWire
+# Level 10: Bandit - OverTheWire
 
 **🎯Objective:**  
 Find the password in the **data.txt** file that is base64 encoded
@@ -24,7 +24,7 @@ VGhlIHBhc3N3b3JkIGlzIGR0UjE3M2ZaS2IwUlJzREZTR3NnMlJXbnBOVmozcVJyCg==
 
 Then the pipe command sent the output to the next command (base64). Finally, base64 --decode decoded the string to reveal the original message.
 
-## 🔑 Password for Level 10:
+## 🔑 Password for Level 11:
 dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
 
 ## 🛠️ Tools and Commands Learned
