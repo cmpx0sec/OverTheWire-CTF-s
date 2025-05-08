@@ -1,4 +1,4 @@
-# Level 13 & 14: Bandit - OverTheWire
+# Level 13: Bandit - OverTheWire
 
 **🎯Objective:**  
 The password for the next level is stored in /etc/bandit_pass/bandit14 and can only be read by user bandit14. A password is not required for this level, but a private SSH key can be used to log into the next level.
