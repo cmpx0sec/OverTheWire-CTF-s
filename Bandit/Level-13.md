@@ -27,7 +27,7 @@ Command:
 ```
 
 ## 🔑 Password for Level 14:
-[The actual password from /etc/bandit_pass/bandit14] 
+[The actual password from /etc/bandit_pass/bandit14] > MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
 
 ## 🛠️ Tools and Commands Learned
 SSH key authentication (-i flag)
