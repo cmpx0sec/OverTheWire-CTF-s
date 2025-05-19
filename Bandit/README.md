@@ -28,8 +28,8 @@ Bandit is a beginner-friendly CTF designed to teach Linux basics, command-line n
 | Level 11 → 12 | ✅ | 
 | Level 12 → 13 | ✅| 
 | Level 13 → 14 | ✅ |
-| Level 14 → 15 | 🔜 |
-| Level 15 → 16 | 🔜 |
+| Level 14 → 15 | ✅ |
+| Level 15 → 16 | ✅ |
 | Level 16 → 17 | 🔜 |
 | Level 17 → 18 | 🔜 |
 | Level 18 → 19 | 🔜 |
@@ -43,7 +43,7 @@ Bandit is a beginner-friendly CTF designed to teach Linux basics, command-line n
 ## 🔥 Notes
 - Always read the welcome message after logging in.
 - Some files are hidden (`ls -a`).
-- Some files are huge — download them instead of opening in terminal.
+- Some files are huge — download them instead of opening in the terminal.
 - Some files need to be piped through `strings`, `grep`, `base64`, etc.
 
 ---
