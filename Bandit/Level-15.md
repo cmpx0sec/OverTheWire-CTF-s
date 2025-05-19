@@ -17,6 +17,7 @@ To make a secure connection and send the password:
    openssl s_client -connect localhost:30001
 ```
 After the connection is established, paste the level 15 password: 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
+
 The password will be shown after entering the level 15 password.
 
 ## 🔑 Password for Level 16:
@@ -24,6 +25,7 @@ kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx
 
 ## 🛠️ Tools and Commands Learned
 **openssl s_client**: Connects to a remote host using SSL/TLS
+
 Secure Communication via **localhost** and custom ports 
 
 ## 🔍 Proof of Execution
