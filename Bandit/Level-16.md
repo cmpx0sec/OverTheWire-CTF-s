@@ -22,3 +22,4 @@ The password is inside this file.
 ## 🛠️ Tools and Commands Learned
 
 ## 🔍 Proof of Execution
+![image](https://github.com/user-attachments/assets/16bb923e-b220-4a01-839f-a3d674d7b067)
