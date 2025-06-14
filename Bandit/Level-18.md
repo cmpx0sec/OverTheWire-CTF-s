@@ -10,19 +10,18 @@ Simple Level, minimal to no steps needed
 
 ## 💡Solution:
 
-
   Command:
    ```bash
-   ssh bandit18@bandit.labs.overthewire.org -p 2220 "cat readme"
+   ssh -i id_rsa bandit18@bandit.labs.overthewire.org -p 2220 "cat readme"
 ```
-
+Input the password from the previous level, and the output will be the password for the next level 
 
 ## 🔑 Password for Level 19:
 cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8
 
 ## 🛠️ Tools and Commands Learned
 
-**ssh** - 
+**ssh** - cryptographic network protocol for operating network services securely over an unsecured network
 
 ## 🔍 Proof of Execution
 
