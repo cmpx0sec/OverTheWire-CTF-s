@@ -6,7 +6,7 @@ The password for the next level is stored in a file, readme, in the home directo
 ---
 
 ## 📝 Steps Taken
-
+Simple Level, minimal to no steps needed
 
 ## 💡Solution:
 
