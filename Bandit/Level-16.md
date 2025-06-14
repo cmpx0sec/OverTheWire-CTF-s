@@ -17,9 +17,9 @@ The command above will help scan all ports from 31000 to 32000, state what is op
 
 Command:
    ```bash
-   echo 'password' | openssl s_client -quiet -connect localhost:31790
+   echo 'kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx' | openssl s_client -quiet -connect localhost:31790
 ```
-For this level, this specific command helps find the RSA private key 
+For this level, this specific command helps find the RSA private key, as shown in the image below. Now that the RSA private key has been found 
 
 ## 💡Solution:
 
