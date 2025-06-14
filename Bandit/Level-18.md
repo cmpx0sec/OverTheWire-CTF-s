@@ -25,4 +25,5 @@ cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8
 
 ## 🔍 Proof of Execution
 
-![image](https://github.com/user-attachments/assets/e0ea1a6d-aeaa-40a0-a40c-b4afdd3725e6)
+![image](https://github.com/user-attachments/assets/b795c381-dc11-4474-a79a-c56b27252a70)
+
