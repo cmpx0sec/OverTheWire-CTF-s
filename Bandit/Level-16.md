@@ -19,16 +19,30 @@ Command:
    ```bash
    echo 'kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx' | openssl s_client -quiet -connect localhost:31790
 ```
-For this level, this specific command helps find the RSA private key, as shown in the image below. Now that the RSA private key has been found 
+For this level, this specific command helps find the RSA private key, as shown in the image below. Copy and paste the RSA private key and log out of the session.
 
+On the Kali VM, outside the Bandit SSH session, input the following command;
+
+ Command:
+   ```bash
+   nano bandit17_key
+```
+Paste the RSA private key and save the file, then lock down the file with the next command:
+
+ Command:
+   ```bash
+   chmod 600 bandit17_key
+```
+chmod helps change file mode (permissions), and 600 makes the file readable and writeable only by the owner, and nobody else can access it. This is important because SSH refuses to use private keys that are readable by groups or others. This is a security measure to prevent key leakage 
+ 
 ## 💡Solution:
 
+After securing the file access bandit17 with the file that has the RSA private key, in this example, the file is called "bandit17_key" 
 
   Command:
    ```bash
-   
+   ssh -i bandit17_key bandit17@bandit.labs.overthewire.org -p 2220
 ```
-The password is inside this file.
 
 ## 🔑 Password for Level 17:
 RSA Private key
