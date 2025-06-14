@@ -27,4 +27,4 @@ x2gLTTjFwMOhQ8oWNbMN362QKxfRqGlO
 
 ## 🔍 Proof of Execution
 
-![image](https://github.com/user-attachments/assets/cc1ca006-8c34-499d-939a-8a82c15ce97a)
+![image](https://github.com/user-attachments/assets/f5ee8d1f-89dd-43ed-8dab-78ee8121c4c7)
