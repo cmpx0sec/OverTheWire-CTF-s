@@ -31,12 +31,18 @@ Bandit is a beginner-friendly CTF designed to teach Linux basics, command-line n
 | Level 14 → 15 | ✅ |
 | Level 15 → 16 | ✅ |
 | Level 16 → 17 | ✅ |
-| Level 17 → 18 | 🔜 |
-| Level 18 → 19 | 🔜 |
+| Level 17 → 18 | ✅ |
+| Level 18 → 19 | ✅ |
 | Level 19 → 20 | 🔜 |
 | Level 20 → 21 | 🔜 |
 | Level 21 → 22 | 🔜 |
 | Level 22 → 23 | 🔜 |
+| Level 23 → 24 | 🔜 |
+| Level 24 → 25 | 🔜 |
+| Level 25 → 26 | 🔜 |
+| Level 26 → 27 | 🔜 |
+| Level 27 → 28 | 🔜 |
+| Level 28 → 29 | 🔜 |
 
 ---
 
