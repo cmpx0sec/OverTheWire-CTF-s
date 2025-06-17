@@ -30,7 +30,7 @@ The password should be outputed after this command.
 
 ## 🛠️ Tools and Commands Learned
 
-**setuid** 
+**setuid** - special permission bit that allows an executable file to run with the privileges of its owner, not the user who initiated the execution
 
 ## 🔍 Proof of Execution
 
