@@ -7,7 +7,7 @@ There is a setuid binary in the home directory that does the following: it makes
 ---
 
 ## 📝 Steps Taken
-
+Look in the home directory, and there will be a binary named **suconnect** using netstat 
 
 ## 💡Solution:
 
@@ -19,7 +19,10 @@ There is a setuid binary in the home directory that does the following: it makes
 The password is inside this file.
 
 ## 🔑 Password for Level 21:
+EeoULMCra2q0dSkYj561DX7s1CpBuOBt
 
 ## 🛠️ Tools and Commands Learned
 
 ## 🔍 Proof of Execution
+
+![image](https://github.com/user-attachments/assets/296862ad-3942-4f29-8878-720365209d9c)
