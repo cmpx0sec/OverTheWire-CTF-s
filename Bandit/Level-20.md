@@ -7,7 +7,14 @@ There is a setuid binary in the home directory that does the following: it makes
 ---
 
 ## 📝 Steps Taken
-Look in the home directory, and there will be a binary named **suconnect** using netstat 
+Look in the home directory, and there will be a binary named **suconnect**. Using netstat will help see what ports are listening on the system.
+
+The next step is to set up a netcat listener on port 1234 in the background and piping the current level's password to this listener with the following command;
+
+  Command:
+   ```bash
+   
+```
 
 ## 💡Solution:
 
