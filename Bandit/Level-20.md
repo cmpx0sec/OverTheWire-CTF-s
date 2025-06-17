@@ -13,22 +13,24 @@ The next step is to set up a netcat listener on port 1234 in the background and 
 
   Command:
    ```bash
-   
+   echo "0qXahG8ZjOVMN9Ghs7iOWsCfZyXOUbYO" | nc -nlvp 1234 &
 ```
 
 ## 💡Solution:
-
+Next, run the following command;
 
   Command:
    ```bash
-   
+   ./suconnect 1234
 ```
-The password is inside this file.
+The password will be shown after the connection is established. 
 
 ## 🔑 Password for Level 21:
 EeoULMCra2q0dSkYj561DX7s1CpBuOBt
 
 ## 🛠️ Tools and Commands Learned
+
+**netstat** - a command-line tool used to display network connections, routing tables, and interface statistics
 
 ## 🔍 Proof of Execution
 
