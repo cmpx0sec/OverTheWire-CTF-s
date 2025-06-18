@@ -2,6 +2,7 @@
 
 **🎯Objective:**  
 
+A program runs automatically at regular intervals via cron, the time-based job scheduler. Look in /etc/cron.d/ for the configuration and see what command is being executed.
 
 ---
 
