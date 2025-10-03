@@ -25,10 +25,12 @@ The script creates a file in the /tmp directory and copies the password for the 
 
    ```bash
    cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
+   tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q
+
 ```
 
 ## 🔑 Password for Level 22:
-t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
+tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q
 
 ## 🛠️ Tools and Commands Learned
 cron > time based job scheduler
