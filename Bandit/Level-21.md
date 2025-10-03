@@ -21,11 +21,10 @@ Thier will be a script inside, run it
 ```
 
 ## 💡Solution:
-The script creates a file in the /tmp directory and copies the password for the next level. It will show:
+The script creates a file in the /tmp directory and copies the password for the next level:
 
    ```bash
    cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
-   tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q
 
 ```
 
