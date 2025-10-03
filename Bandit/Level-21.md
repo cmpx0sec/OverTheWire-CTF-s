@@ -35,4 +35,5 @@ tRae0UfB9v0UzbCdn9cY0gQnds9GF58Q
 cron > time based job scheduler
 
 ## 🔍 Proof of Execution
-<img width="825" height="304" alt="image" src="https://github.com/user-attachments/assets/dc86f84f-039f-40af-b430-924ace28a2a8" />
+<img width="764" height="311" alt="image" src="https://github.com/user-attachments/assets/86869f16-4cae-4b95-a9d0-99f46211ad23" />
+
