@@ -7,19 +7,31 @@ A program runs automatically at regular intervals via cron, the time-based job s
 ---
 
 ## 📝 Steps Taken
-
+First, enumerate the cron.d directory with the following command:
+```bash
+   ls -la /etc/cron.d/
+```
+Thier is a cronjob for the next level:
+```bash
+   cat /etc/cron.d/cronjob_bandit22
+```
+Thier will be a script inside, run it
+```bash
+   cat /usr/bin/cronjob_bandit22.sh
+```
 
 ## 💡Solution:
+The script creates a file in the /tmp directory and copies the password for the next level. It will show:
 
-
-  Command:
    ```bash
-   
+   cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 ```
-The password is inside this file.
 
 ## 🔑 Password for Level 22:
+t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 
 ## 🛠️ Tools and Commands Learned
+cron > time based job scheduler
 
 ## 🔍 Proof of Execution
+<img width="825" height="304" alt="image" src="https://github.com/user-attachments/assets/dc86f84f-039f-40af-b430-924ace28a2a8" />
