@@ -1,1 +1,28 @@
+# Level 00: Krypton - OverTheWire
+
+**🎯Objective:**  
+
+The following string encodes the password using Base64:
+S1JZUFRPTklTR1JFQVQ=
+
+Use this password to log in to krypton.labs.overthewire.org with username krypton1 using SSH on port 2231. 
+
+---
+
+
+
+## 💡Solution:
+
+
+  Command:
+   ```bash
+   
+```
+The password is inside this file.
+
+## 🔑 Password for Level 01:
+
+
+
+## 🔍 Proof of Execution
 
