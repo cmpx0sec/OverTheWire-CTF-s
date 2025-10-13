@@ -1,28 +1,25 @@
 # Level 00: Krypton - OverTheWire
 
-**🎯Objective:**  
+**🎯 Objective**
 
-The following string encodes the password using Base64:
-S1JZUFRPTklTR1JFQVQ=
+The following string encodes the password using Base64:  
+`S1JZUFRPTklTR1JFQVQ=`
 
-Use this password to log in to krypton.labs.overthewire.org with username krypton1 using SSH on port 2231. 
+Use this password to log in to `krypton.labs.overthewire.org` with username `krypton1` using SSH on port `2231`.
 
 ---
 
+## 💡 Solution
 
+### 1) Decode the Base64 string to get the password for `krypton1`
 
-## 💡Solution:
+Run one of these locally:
 
+```bash
+# Using the base64 utility
+echo 'S1JZUFRPTklTR1JFQVQ=' | base64 --decode
 
-  Command:
-   ```bash
-   
-```
-The password is inside this file.
+# OR using Python if base64 isn't available
+python3 -c "import base64; print(base64.b64decode('S1JZUFRPTklTR1JFQVQ=').decode())"
 
-## 🔑 Password for Level 01:
-
-
-
-## 🔍 Proof of Execution
 
